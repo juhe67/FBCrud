@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171099490423",
+    "firebase_url": "https://fbcrud-5b6a8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fbcrud-5b6a8",
+    "storage_bucket": "fbcrud-5b6a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171099490423:android:1781653914b6a292aede72",
+        "android_client_info": {
+          "package_name": "com.example.firecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171099490423-rkpnt3g2pv4r0fd8r60kftj15qvp54jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZD0f4YzcAJW-oRIqrZ0lTDjwVuhpmVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171099490423-rkpnt3g2pv4r0fd8r60kftj15qvp54jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
