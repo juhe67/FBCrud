@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">FBCrud</string>
-    <string name="welcome">Welcome !</string>
-    <string name="submit">Submit</string>
-    <string name="your_name">Your Name</string>
-    <string name="your_age">Your Age</string>
-    <string name="npm"> Your NPM</string>
-    <string name="your_status">Your Status</string>
-</resources>
